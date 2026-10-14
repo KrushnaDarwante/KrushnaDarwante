@@ -2,7 +2,7 @@
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KrushnaDarwante/KrushnaDarwante/blob/main/ppgstlg.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/KrushnaDarwante/KrushnaDarwante/blob/main/light.png">
   <img alt="Krushna Darwante" src="https://github.com/KrushnaDarwante/KrushnaDarwante/blob/main/light.png">
 </picture>
