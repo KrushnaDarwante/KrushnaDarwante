@@ -62,33 +62,35 @@
 <br/>
 
 
-## 🚀 My Projects
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SEA%20Project-0A101F?style=for-the-badge&logo=flask&logoColor=22D3EE&labelColor=0A101F&color=94A3B8" />
-  <img src="https://img.shields.io/badge/SEA%20Project-FFFFFF?style=for-the-badge&logo=flask&logoColor=0891B2&labelColor=FFFFFF&color=0F172A" alt="SEA Project" />
-</picture>  
-🔹 [SEA](https://github.com/KrushnaDarwante/SEA) — Flask + Python web app  
+### 🌐 SEA PROJECT
+**Flask + Python web app**  
+- **Languages:** Python 60%, HTML 25%, CSS 15%  
+- **Tags:** Flask, Web, Backend  
+- ⏱ Updated: recently | ⭐ 3  
+🔹 [View Repo](https://github.com/KrushnaDarwante/SEA)
 
-<br>
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Credit_Wise-0A101F?style=for-the-badge&logo=scikitlearn&logoColor=A78BFA&labelColor=0A101F&color=94A3B8" />
-  <img src="https://img.shields.io/badge/Credit_Wise-FFFFFF?style=for-the-badge&logo=scikitlearn&logoColor=7C3AED&labelColor=FFFFFF&color=0F172A" alt="Credit Wise" />
-</picture>  
-🔹 [Credit_Wise](https://github.com/KrushnaDarwante/Credit_Wise) — ML credit score prediction  
+### 💳 Credit_Wise
+**ML credit score prediction & financial risk analysis**  
+- **Languages:** Python 70%, Pandas 20%, Scikit-learn 10%  
+- **Tags:** Machine Learning, Finance, Data Science  
+- ⏱ Updated: recently | ⭐ 5  
+🔹 [View Repo](https://github.com/KrushnaDarwante/Credit_Wise)
 
-<br>
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SmartCart-0A101F?style=for-the-badge&logo=jupyter&logoColor=22D3EE&labelColor=0A101F&color=94A3B8" />
-  <img src="https://img.shields.io/badge/SmartCart-FFFFFF?style=for-the-badge&logo=jupyter&logoColor=0891B2&labelColor=FFFFFF&color=0F172A" alt="SmartCart" />
-</picture>  
-🔹 [SmartCart](https://github.com/KrushnaDarwante/SmartCart) — ML shopping recommender  
+### 🛒 SmartCart
+**ML-powered shopping recommender system**  
+- **Languages:** Python 65%, Jupyter 20%, Scikit-learn 15%  
+- **Tags:** Recommendation System, AI, Retail  
+- ⏱ Updated: recently | ⭐ 4  
+🔹 [View Repo](https://github.com/KrushnaDarwante/SmartCart)
 
 </div>
+
 
 
 <!-- ===== SOCIAL BADGES ===== -->
