@@ -41,15 +41,14 @@
 
 <!-- ===== CONTRIBUTION SNAKE ===== -->
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-light.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-light.svg" />
-</picture>
-
+<div align="center"> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrushnaDarwante/KrushnaDarwante/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KrushnaDarwante/KrushnaDarwante/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/KrushnaDarwante/KrushnaDarwante/output/github-snake.svg" />
+  </picture>
 </div>
+
 
 <!-- ===== END SNAKE ===== -->
 <br/>
