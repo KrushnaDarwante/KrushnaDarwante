@@ -60,37 +60,39 @@
 <!-- ===== END SNAKE ===== -->
 <br/>
 <br/>
+
+
 ## 🚀 My Projects
 
 <div align="center">
 
-### 🔹 [SEA](https://github.com/KrushnaDarwante/SEA)
-A web application project built with Flask and Python.  
-Tech stack:  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- SEA Project -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SEA%20Project-0A101F?style=for-the-badge&logo=python&logoColor=22D3EE&labelColor=0A101F&color=94A3B8" />
+  <img src="https://img.shields.io/badge/SEA%20Project-FFFFFF?style=for-the-badge&logo=python&logoColor=0891B2&labelColor=FFFFFF&color=0F172A" alt="SEA Project" />
+</picture>  
+🔹 [SEA](https://github.com/KrushnaDarwante/SEA) — Flask + Python web app
 
 ---
 
-### 🔹 [Credit_Wise](https://github.com/KrushnaDarwante/Credit_Wise)
-A machine learning project for credit score prediction and financial risk analysis.  
-Tech stack:  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<!-- Credit Wise Project -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Credit_Wise-0A101F?style=for-the-badge&logo=scikitlearn&logoColor=A78BFA&labelColor=0A101F&color=94A3B8" />
+  <img src="https://img.shields.io/badge/Credit_Wise-FFFFFF?style=for-the-badge&logo=scikitlearn&logoColor=7C3AED&labelColor=FFFFFF&color=0F172A" alt="Credit Wise" />
+</picture>  
+🔹 [Credit_Wise](https://github.com/KrushnaDarwante/Credit_Wise) — ML credit score prediction
 
 ---
 
-### 🔹 [SmartCart](https://github.com/KrushnaDarwante/SmartCart)
-An ML‑powered shopping recommendation system with fraud detection pipeline.  
-Tech stack:  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<!-- SmartCart Project -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SmartCart-0A101F?style=for-the-badge&logo=jupyter&logoColor=22D3EE&labelColor=0A101F&color=94A3B8" />
+  <img src="https://img.shields.io/badge/SmartCart-FFFFFF?style=for-the-badge&logo=jupyter&logoColor=0891B2&labelColor=FFFFFF&color=0F172A" alt="SmartCart" />
+</picture>  
+🔹 [SmartCart](https://github.com/KrushnaDarwante/SmartCart) — ML shopping recommender
 
 </div>
+
 
 
 <!-- ===== SOCIAL BADGES ===== -->
