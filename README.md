@@ -16,9 +16,6 @@
 
   <br/>
 
-  <!-- 📊 Stats Card -->
-  <img width="49%" src="https://github-readme-stats-two-pied-41.vercel.app/api?username=Krushna&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" /> 
-
   <!-- 🌐 Top Languages -->
 </div>
 
