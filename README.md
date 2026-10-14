@@ -66,33 +66,29 @@
 
 <div align="center">
 
-<!-- SEA Project -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SEA%20Project-0A101F?style=for-the-badge&logo=python&logoColor=22D3EE&labelColor=0A101F&color=94A3B8" />
-  <img src="https://img.shields.io/badge/SEA%20Project-FFFFFF?style=for-the-badge&logo=python&logoColor=0891B2&labelColor=FFFFFF&color=0F172A" alt="SEA Project" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SEA%20Project-0A101F?style=for-the-badge&logo=flask&logoColor=22D3EE&labelColor=0A101F&color=94A3B8" />
+  <img src="https://img.shields.io/badge/SEA%20Project-FFFFFF?style=for-the-badge&logo=flask&logoColor=0891B2&labelColor=FFFFFF&color=0F172A" alt="SEA Project" />
 </picture>  
-🔹 [SEA](https://github.com/KrushnaDarwante/SEA) — Flask + Python web app
+🔹 [SEA](https://github.com/KrushnaDarwante/SEA) — Flask + Python web app  
 
----
+<br>
 
-<!-- Credit Wise Project -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Credit_Wise-0A101F?style=for-the-badge&logo=scikitlearn&logoColor=A78BFA&labelColor=0A101F&color=94A3B8" />
   <img src="https://img.shields.io/badge/Credit_Wise-FFFFFF?style=for-the-badge&logo=scikitlearn&logoColor=7C3AED&labelColor=FFFFFF&color=0F172A" alt="Credit Wise" />
 </picture>  
-🔹 [Credit_Wise](https://github.com/KrushnaDarwante/Credit_Wise) — ML credit score prediction
+🔹 [Credit_Wise](https://github.com/KrushnaDarwante/Credit_Wise) — ML credit score prediction  
 
----
+<br>
 
-<!-- SmartCart Project -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SmartCart-0A101F?style=for-the-badge&logo=jupyter&logoColor=22D3EE&labelColor=0A101F&color=94A3B8" />
   <img src="https://img.shields.io/badge/SmartCart-FFFFFF?style=for-the-badge&logo=jupyter&logoColor=0891B2&labelColor=FFFFFF&color=0F172A" alt="SmartCart" />
 </picture>  
-🔹 [SmartCart](https://github.com/KrushnaDarwante/SmartCart) — ML shopping recommender
+🔹 [SmartCart](https://github.com/KrushnaDarwante/SmartCart) — ML shopping recommender  
 
 </div>
-
 
 
 <!-- ===== SOCIAL BADGES ===== -->
