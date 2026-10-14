@@ -60,13 +60,42 @@
 <!-- ===== END SNAKE ===== -->
 <br/>
 <br/>
+## 🚀 My Projects
+
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/projects/projects.svg" alt="Projects" />
+
+### 🔹 [SEA](https://github.com/KrushnaDarwante/SEA)
+A web application project built with Flask and Python.  
+Tech stack:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 🔹 [Credit_Wise](https://github.com/KrushnaDarwante/Credit_Wise)
+A machine learning project for credit score prediction and financial risk analysis.  
+Tech stack:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+### 🔹 [SmartCart](https://github.com/KrushnaDarwante/SmartCart)
+An ML‑powered shopping recommendation system with fraud detection pipeline.  
+Tech stack:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 </div>
+
 
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
-## 🌐 Connect with me
+ 🌐 Connect with me
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/krushna-darwante-bb923438a/">
