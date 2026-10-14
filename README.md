@@ -59,12 +59,26 @@
 
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
-<div align="center"> <a href="https://www.linkedin.com/in/krushna-darwante-bb923438a/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge &logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp;&nbsp; <a href="https://www.instagram.com/direct/t/17852199668759099/"> <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge &logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" /> </a> &nbsp;&nbsp; <a href="https://mail.google.com/mail/u/0/#inbox"> <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge &logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" /> </a> 
-  <a href="https://www.facebook.com/krushna.darwante.2025/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
+## 🌐 Connect with me
 
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/krushna-darwante-bb923438a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/direct/t/17852199668759099/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:krushna@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/krushna.darwante.2025/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </div>
+
 
 <!-- ===== END SOCIAL BADGES ===== -->
 
