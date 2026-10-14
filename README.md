@@ -62,13 +62,17 @@
 <br/>
 
 
+
+## 📂 PROJECTS.LIST
+`./projects.sh --all`
+
 <div align="center">
 
 ### 🌐 SEA PROJECT
 **Flask + Python web app**  
 - **Languages:** Python 60%, HTML 25%, CSS 15%  
 - **Tags:** Flask, Web, Backend  
-- ⏱ Updated: recently | ⭐ 3  
+- ⭐ 3 | ⏱ updated 2w ago  
 🔹 [View Repo](https://github.com/KrushnaDarwante/SEA)
 
 ---
@@ -77,7 +81,7 @@
 **ML credit score prediction & financial risk analysis**  
 - **Languages:** Python 70%, Pandas 20%, Scikit-learn 10%  
 - **Tags:** Machine Learning, Finance, Data Science  
-- ⏱ Updated: recently | ⭐ 5  
+- ⭐ 5 | ⏱ updated 1mo ago  
 🔹 [View Repo](https://github.com/KrushnaDarwante/Credit_Wise)
 
 ---
@@ -86,7 +90,7 @@
 **ML-powered shopping recommender system**  
 - **Languages:** Python 65%, Jupyter 20%, Scikit-learn 15%  
 - **Tags:** Recommendation System, AI, Retail  
-- ⏱ Updated: recently | ⭐ 4  
+- ⭐ 4 | ⏱ updated 3w ago  
 🔹 [View Repo](https://github.com/KrushnaDarwante/SmartCart)
 
 </div>
